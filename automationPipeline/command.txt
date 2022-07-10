@@ -1,0 +1,5 @@
+﻿copy /downloads/fileToCopy.txt /downloads/folder/newfile.txt
+copy /downloads/fileToDelete.txt /downloads/fileToDelete2.txt
+delete /downloads/fileToDelete.txt
+create downloads/ createdfile
+download https://upload.wikimedia.org/wikipedia/commons/3/3f/JPEG_example_flower.jpg /downloads/fower.jpg

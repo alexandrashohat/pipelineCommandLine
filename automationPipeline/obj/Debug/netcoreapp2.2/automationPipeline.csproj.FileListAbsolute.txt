@@ -1,0 +1,11 @@
+C:\Users\sasha\source\repos\automationPipeline\automationPipeline\bin\Debug\netcoreapp2.2\automationPipeline.deps.json
+C:\Users\sasha\source\repos\automationPipeline\automationPipeline\bin\Debug\netcoreapp2.2\automationPipeline.runtimeconfig.json
+C:\Users\sasha\source\repos\automationPipeline\automationPipeline\bin\Debug\netcoreapp2.2\automationPipeline.runtimeconfig.dev.json
+C:\Users\sasha\source\repos\automationPipeline\automationPipeline\bin\Debug\netcoreapp2.2\automationPipeline.dll
+C:\Users\sasha\source\repos\automationPipeline\automationPipeline\bin\Debug\netcoreapp2.2\automationPipeline.pdb
+C:\Users\sasha\source\repos\automationPipeline\automationPipeline\obj\Debug\netcoreapp2.2\automationPipeline.csprojAssemblyReference.cache
+C:\Users\sasha\source\repos\automationPipeline\automationPipeline\obj\Debug\netcoreapp2.2\automationPipeline.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\automationPipeline\automationPipeline\obj\Debug\netcoreapp2.2\automationPipeline.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\automationPipeline\automationPipeline\obj\Debug\netcoreapp2.2\automationPipeline.AssemblyInfo.cs
+C:\Users\sasha\source\repos\automationPipeline\automationPipeline\obj\Debug\netcoreapp2.2\automationPipeline.dll
+C:\Users\sasha\source\repos\automationPipeline\automationPipeline\obj\Debug\netcoreapp2.2\automationPipeline.pdb

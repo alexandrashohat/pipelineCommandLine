@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "automationPipeline": {
+      "commandName": "Project",
+      "commandLineArgs": "/downloads/commands.txt",
+      "environmentVariables": {
+        "Key": "Value"
+      }
+    }
+  }
+}
